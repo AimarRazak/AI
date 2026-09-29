@@ -153,6 +153,3 @@ Nama provinsi harus sesuai penulisan pada dataset (contoh: `Jawa Barat`, `Nanggr
 - *Hyperparameter tuning* (`GridSearchCV` / `RandomizedSearchCV`).
 - Membuat aplikasi sederhana (Streamlit) agar model mudah dicoba tanpa membuka notebook.
 
-## Lisensi & Sumber Data
-
-Tambahkan lisensi kode (mis. MIT) dan cantumkan sumber resmi dataset IKA di sini sebelum dipublikasikan.
